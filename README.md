@@ -1,7 +1,7 @@
 ## Award
-Author Irene Kasiva
+Author Melvin Omega
 ### Description
-This is a web appliaction that users can sign up and rate projects posted by other users on a scale of 1-10
+An application that will allow a user to post a project he/she has created and get it reviewed by his/her peers.
 
 ## How it works for a user
 A user can:
@@ -20,9 +20,9 @@ A user can:
 ## Running the application
 python3 manage.py runserver
 ## Technologies used
-Python3.6
-Django 1.11
+Python3.8
+Django
 ## Contact Information
-irenekasiva75@gmail.com
+melvinomega151@gmail.com
 ## Licence
 This software is under MIT Licence
