@@ -6,8 +6,6 @@ from django.contrib.auth.decorators import login_required
 from django.contrib.auth.models import User
 from .models import Profile
 from AwardsPosts.models import Post
-# from django.contrib.auth.password_validation import validate_password
-# from django.core.exceptions import ValidationError
 
 # Create your views here.
 @csrf_protect
